@@ -1,0 +1,29 @@
+# Mini WhatsApp Chat App
+
+## 🚀 Features
+- View all chats
+- Create new chats
+- MongoDB integration
+- Error handling (try-catch, wrapAsync)
+
+## 🛠 Tech Stack
+- Node.js
+- Express.js
+- MongoDB
+- EJS
+
+## 📚 Concepts Covered
+- REST Routes
+- MVC Structure
+- Async Error Handling
+- Custom Middleware
+
+## ▶️ How to Run
+1. Install dependencies:
+   npm install
+
+2. Start server:
+   node index.js
+
+3. Open browser:
+   http://localhost:8080/chats
